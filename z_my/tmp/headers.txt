@@ -1,0 +1,10 @@
+эти хедеры позволяют отслеживать цепочку переходов через прокси
+    x-forwarder-for
+    x-forwarded
+    forwarded-for
+    forwarded-for-ip
+    forwarded
+    client-ip
+    proxy-connection
+
+проверять можно на PHP Proxy Judge http://azenv.net/

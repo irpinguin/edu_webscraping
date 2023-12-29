@@ -1,0 +1,73 @@
+{
+    "username": "Maria",
+    "time_of_post": "2023-09-01 00:22:00",
+    "reply_to": null,
+    "rating": 3,
+    "user_type": "moderator",
+    "registration_date": "2023-07-23",
+    "email": "maria@example.com",
+    "user_id": 9657,
+    "text": "Какие метрики вы используете для оценки эффективности парсера?",
+    "comments": [
+        {
+            "username": "Alex",
+            "time_of_post": "2023-09-01 00:40:00",
+            "reply_to": null,
+            "rating": 2,
+            "user_type": "admin",
+            "registration_date": "2023-03-23",
+            "email": "alex@example.com",
+            "user_id": 9543,
+            "text": "Автоматизацию можно реализовать через cron-задачи или специализированные инструменты.",
+            "comments": [
+                {
+                    "username": "Kirill",
+                    "time_of_post": "2023-09-01 01:18:00",
+                    "reply_to": null,
+                    "rating": 4,
+                    "user_type": "admin",
+                    "registration_date": "2023-05-11",
+                    "email": "kirill@example.com",
+                    "user_id": 4815,
+                    "text": "Как вы тестируете свои парсеры?",
+                    "comments": [
+                        {
+                            "username": "Kirill",
+                            "time_of_post": "2023-09-01 01:36:00",
+                            "reply_to": null,
+                            "rating": 1,
+                            "user_type": "moderator",
+                            "registration_date": "2023-05-21",
+                            "email": "kirill@example.com",
+                            "user_id": 5929,
+                            "text": "Юридические проблемы могут включать нарушение авторских прав или неправомерное использование данных.",
+                            "comments": []
+                        },
+                        {
+                            "username": "Dmitry",
+                            "time_of_post": "2023-09-01 01:43:00",
+                            "reply_to": null,
+                            "rating": 2,
+                            "user_type": "moderator",
+                            "registration_date": "2022-11-19",
+                            "email": "dmitry@example.com",
+                            "user_id": 9564,
+                            "text": "Как парсить данные из вложенных фреймов?",
+                            "comments": []
+                        },
+                        {
+                            "username": "Vladimir",
+                            "time_of_post": "2023-09-01 02:18:00",
+                            "reply_to": null,
+                            "rating": 4,
+                            "user_type": "admin",
+                            "registration_date": "2023-04-02",
+                            "email": "vladimir@example.com",
+                            "user_id": 5382,
+                            "text": "Как работают веб-браузеры?",
+                            "comments": []
+                        },
+                }
+        }
+    ]
+}
